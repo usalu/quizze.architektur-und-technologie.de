@@ -1,0 +1,16 @@
+{
+  "name": "Architecture and Technology Quizzes · Quizze zu Architektur und Technologie",
+  "short_name": "Quiz",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f3e3",
+  "theme_color": "#f7f3e3",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
